@@ -1,5 +1,13 @@
 # dataDIF Dataset
 
+## Citation
+
+If you use this dataset in your research, please cite it as:
+
+Demir, E. (2023). *dataDIF: A simulated dichotomous dataset for differential item functioning analyses* [Data set]. GitHub. https://erguldemir.github.io/dataset/
+
+---
+
 ## Description
 
 1. The **dataDIF** dataset is a simulated dataset generated in **R**, including:
