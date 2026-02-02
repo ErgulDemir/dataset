@@ -12,7 +12,10 @@
 3. The dataset is provided in two formats:
    - `.csv`
    - `.xlsx`  
+   
    Users may download whichever format they prefer.
+
+   Note: GitHub renders `.csv` files directly in the browser, whereas `.xlsx` files must be downloaded to be viewed.
 
 4. The **R code used to generate the dataset** is provided below.  
    Please note that the generated output may vary depending on the **R version** and package versions.
