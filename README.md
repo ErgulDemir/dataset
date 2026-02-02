@@ -3,9 +3,9 @@
 ## Description
 
 1. The **dataDIF** dataset is a simulated dataset generated in **R**, including:
-   - 1000 observations
-   - 20 dichotomous items
-   - 2 grouping variables
+   - 1000 observations.
+   - 20 dichotomous items with 6 random DIF items.
+   - 2 grouping variables for 500 observations for each.
 
 2. This dataset was generated for implementing and testing **Differential Item Functioning (DIF)** techniques.
 
