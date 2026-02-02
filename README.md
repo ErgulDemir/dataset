@@ -20,6 +20,10 @@
 4. The **R code used to generate the dataset** is provided below.  
    Please note that the generated output may vary depending on the **R version** and package versions.
 
+5- The dataset can be downloaded directly using the links below:
+   - CSV format: https://erguldemir.github.io/dataset/dataDIF.csv
+   - Excel format: https://erguldemir.github.io/dataset/dataDIF.xlsx
+
 ---
 
 ## R Code for Generating the Dataset
